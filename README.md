@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Adeel-Butt
-- 👀 I’m interested in learning new technologies. 
-- 🌱 I’m currently learning php (OOP advance level)
-  
+👋 Hi, I’m Adeel Butt.
 
-<!---
-Adeel-Butt5/Adeel-Butt5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Passionate about web development and always eager to learn new technologies.  
+- 💻 Skilled in PHP (OOP) and currently exploring Laravel to build dynamic web applications.  
+🌱 Continuously improving my skills to become a better developer. 
